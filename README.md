@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0692-top-k-frequent-words](https://github.com/Aryan-040/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Aryan-040/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Aryan-040/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## String
 |  |
 | ------- |
+| [0692-top-k-frequent-words](https://github.com/Aryan-040/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Aryan-040/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Binary Search
 |  |
@@ -28,4 +30,28 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Aryan-040/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
+## Hash Table
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/Aryan-040/Leetcode/tree/master/0692-top-k-frequent-words) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/Aryan-040/Leetcode/tree/master/0692-top-k-frequent-words) |
+## Sorting
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/Aryan-040/Leetcode/tree/master/0692-top-k-frequent-words) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/Aryan-040/Leetcode/tree/master/0692-top-k-frequent-words) |
+## Bucket Sort
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/Aryan-040/Leetcode/tree/master/0692-top-k-frequent-words) |
+## Counting
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/Aryan-040/Leetcode/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
