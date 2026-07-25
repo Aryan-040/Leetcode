@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/Aryan-040/Leetcode/tree/master/0038-count-and-say) |
 | [0692-top-k-frequent-words](https://github.com/Aryan-040/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aryan-040/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Aryan-040/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
