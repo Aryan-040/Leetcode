@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Aryan-040/Leetcode/tree/master/0053-maximum-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aryan-040/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/Aryan-040/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aryan-040/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Aryan-040/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/Aryan-040/Leetcode/tree/master/0053-maximum-subarray) |
 | [2484-count-palindromic-subsequences](https://github.com/Aryan-040/Leetcode/tree/master/2484-count-palindromic-subsequences) |
 ## Counting Sort
 |  |
@@ -164,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Aryan-040/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Aryan-040/Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
