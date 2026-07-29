@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0451-sort-characters-by-frequency](https://github.com/Aryan-040/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0686-repeated-string-match](https://github.com/Aryan-040/Leetcode/tree/master/0686-repeated-string-match) |
 | [0692-top-k-frequent-words](https://github.com/Aryan-040/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [0796-rotate-string](https://github.com/Aryan-040/Leetcode/tree/master/0796-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aryan-040/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1392-longest-happy-prefix](https://github.com/Aryan-040/Leetcode/tree/master/1392-longest-happy-prefix) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aryan-040/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aryan-040/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/Aryan-040/Leetcode/tree/master/0686-repeated-string-match) |
+| [0796-rotate-string](https://github.com/Aryan-040/Leetcode/tree/master/0796-rotate-string) |
 | [1392-longest-happy-prefix](https://github.com/Aryan-040/Leetcode/tree/master/1392-longest-happy-prefix) |
 ## Two Pointers
 |  |
