@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0628-maximum-product-of-three-numbers](https://github.com/Aryan-040/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/Aryan-040/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aryan-040/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/Aryan-040/Leetcode/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Aryan-040/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Aryan-040/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Aryan-040/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Aryan-040/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/Aryan-040/Leetcode/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Aryan-040/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Aryan-040/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Hash Table
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0208-implement-trie-prefix-tree](https://github.com/Aryan-040/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Aryan-040/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0692-top-k-frequent-words](https://github.com/Aryan-040/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/Aryan-040/Leetcode/tree/master/1707-maximum-xor-with-an-element-from-array) |
 ## Sorting
 |  |
 | ------- |
