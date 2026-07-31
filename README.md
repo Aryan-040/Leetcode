@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aryan-040/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Aryan-040/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2484-count-palindromic-subsequences](https://github.com/Aryan-040/Leetcode/tree/master/2484-count-palindromic-subsequences) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aryan-040/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Aryan-040/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Aryan-040/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Aryan-040/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0451-sort-characters-by-frequency](https://github.com/Aryan-040/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Aryan-040/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Aryan-040/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aryan-040/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Aryan-040/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Trie
 |  |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0692-top-k-frequent-words](https://github.com/Aryan-040/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aryan-040/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Aryan-040/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aryan-040/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Aryan-040/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Aryan-040/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Heap (Priority Queue)
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0451-sort-characters-by-frequency](https://github.com/Aryan-040/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Aryan-040/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Aryan-040/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aryan-040/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Aryan-040/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Enumeration
 |  |
@@ -126,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aryan-040/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Aryan-040/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aryan-040/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## String Matching
 |  |
 | ------- |
