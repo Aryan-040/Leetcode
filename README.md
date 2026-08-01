@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0151-reverse-words-in-a-string](https://github.com/Aryan-040/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/Aryan-040/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Aryan-040/Leetcode/tree/master/0242-valid-anagram) |
+| [0282-expression-add-operators](https://github.com/Aryan-040/Leetcode/tree/master/0282-expression-add-operators) |
 | [0451-sort-characters-by-frequency](https://github.com/Aryan-040/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0686-repeated-string-match](https://github.com/Aryan-040/Leetcode/tree/master/0686-repeated-string-match) |
 | [0692-top-k-frequent-words](https://github.com/Aryan-040/Leetcode/tree/master/0692-top-k-frequent-words) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0009-palindrome-number](https://github.com/Aryan-040/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Aryan-040/Leetcode/tree/master/0013-roman-to-integer) |
+| [0282-expression-add-operators](https://github.com/Aryan-040/Leetcode/tree/master/0282-expression-add-operators) |
 | [0486-predict-the-winner](https://github.com/Aryan-040/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aryan-040/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Aryan-040/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Aryan-040/Leetcode/tree/master/0037-sudoku-solver) |
+| [0282-expression-add-operators](https://github.com/Aryan-040/Leetcode/tree/master/0282-expression-add-operators) |
 ## Matrix
 |  |
 | ------- |
