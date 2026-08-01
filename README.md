@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0037-sudoku-solver](https://github.com/Aryan-040/Leetcode/tree/master/0037-sudoku-solver) |
 | [0053-maximum-subarray](https://github.com/Aryan-040/Leetcode/tree/master/0053-maximum-subarray) |
+| [0085-maximal-rectangle](https://github.com/Aryan-040/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0204-count-primes](https://github.com/Aryan-040/Leetcode/tree/master/0204-count-primes) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Aryan-040/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0486-predict-the-winner](https://github.com/Aryan-040/Leetcode/tree/master/0486-predict-the-winner) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Aryan-040/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aryan-040/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aryan-040/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Greedy
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Aryan-040/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Aryan-040/Leetcode/tree/master/0053-maximum-subarray) |
+| [0085-maximal-rectangle](https://github.com/Aryan-040/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0486-predict-the-winner](https://github.com/Aryan-040/Leetcode/tree/master/0486-predict-the-winner) |
 | [2484-count-palindromic-subsequences](https://github.com/Aryan-040/Leetcode/tree/master/2484-count-palindromic-subsequences) |
 | [3320-count-the-number-of-winning-sequences](https://github.com/Aryan-040/Leetcode/tree/master/3320-count-the-number-of-winning-sequences) |
@@ -216,8 +219,13 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Aryan-040/Leetcode/tree/master/0037-sudoku-solver) |
+| [0085-maximal-rectangle](https://github.com/Aryan-040/Leetcode/tree/master/0085-maximal-rectangle) |
 ## Number Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Aryan-040/Leetcode/tree/master/0204-count-primes) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/Aryan-040/Leetcode/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
