@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0037-sudoku-solver](https://github.com/Aryan-040/Leetcode/tree/master/0037-sudoku-solver) |
 | [0053-maximum-subarray](https://github.com/Aryan-040/Leetcode/tree/master/0053-maximum-subarray) |
+| [0204-count-primes](https://github.com/Aryan-040/Leetcode/tree/master/0204-count-primes) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Aryan-040/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0486-predict-the-winner](https://github.com/Aryan-040/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aryan-040/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0009-palindrome-number](https://github.com/Aryan-040/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Aryan-040/Leetcode/tree/master/0013-roman-to-integer) |
+| [0204-count-primes](https://github.com/Aryan-040/Leetcode/tree/master/0204-count-primes) |
 | [0282-expression-add-operators](https://github.com/Aryan-040/Leetcode/tree/master/0282-expression-add-operators) |
 | [0486-predict-the-winner](https://github.com/Aryan-040/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aryan-040/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Aryan-040/Leetcode/tree/master/0204-count-primes) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Aryan-040/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Stack
 |  |
@@ -213,4 +216,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Aryan-040/Leetcode/tree/master/0037-sudoku-solver) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Aryan-040/Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
