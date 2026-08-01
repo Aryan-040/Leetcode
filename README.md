@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0486-predict-the-winner](https://github.com/Aryan-040/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aryan-040/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/Aryan-040/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Aryan-040/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aryan-040/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/Aryan-040/Leetcode/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Aryan-040/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0053-maximum-subarray](https://github.com/Aryan-040/Leetcode/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/Aryan-040/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0486-predict-the-winner](https://github.com/Aryan-040/Leetcode/tree/master/0486-predict-the-winner) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Aryan-040/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [2484-count-palindromic-subsequences](https://github.com/Aryan-040/Leetcode/tree/master/2484-count-palindromic-subsequences) |
 | [3320-count-the-number-of-winning-sequences](https://github.com/Aryan-040/Leetcode/tree/master/3320-count-the-number-of-winning-sequences) |
 ## Counting Sort
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0037-sudoku-solver](https://github.com/Aryan-040/Leetcode/tree/master/0037-sudoku-solver) |
 | [0085-maximal-rectangle](https://github.com/Aryan-040/Leetcode/tree/master/0085-maximal-rectangle) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Aryan-040/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Number Theory
 |  |
 | ------- |
