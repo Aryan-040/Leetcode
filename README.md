@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0692-top-k-frequent-words](https://github.com/Aryan-040/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0877-stone-game](https://github.com/Aryan-040/Leetcode/tree/master/0877-stone-game) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Aryan-040/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1406-stone-game-iii](https://github.com/Aryan-040/Leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aryan-040/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/Aryan-040/Leetcode/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Aryan-040/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0486-predict-the-winner](https://github.com/Aryan-040/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aryan-040/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Aryan-040/Leetcode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Aryan-040/Leetcode/tree/master/1406-stone-game-iii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Aryan-040/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Aryan-040/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Aryan-040/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0486-predict-the-winner](https://github.com/Aryan-040/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Aryan-040/Leetcode/tree/master/0877-stone-game) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Aryan-040/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1406-stone-game-iii](https://github.com/Aryan-040/Leetcode/tree/master/1406-stone-game-iii) |
 | [2484-count-palindromic-subsequences](https://github.com/Aryan-040/Leetcode/tree/master/2484-count-palindromic-subsequences) |
 | [3320-count-the-number-of-winning-sequences](https://github.com/Aryan-040/Leetcode/tree/master/3320-count-the-number-of-winning-sequences) |
 ## Counting Sort
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0486-predict-the-winner](https://github.com/Aryan-040/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Aryan-040/Leetcode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Aryan-040/Leetcode/tree/master/1406-stone-game-iii) |
 ## Linked List
 |  |
 | ------- |
