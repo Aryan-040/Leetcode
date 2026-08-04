@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0628-maximum-product-of-three-numbers](https://github.com/Aryan-040/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/Aryan-040/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0877-stone-game](https://github.com/Aryan-040/Leetcode/tree/master/0877-stone-game) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aryan-040/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Aryan-040/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1406-stone-game-iii](https://github.com/Aryan-040/Leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aryan-040/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Aryan-040/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aryan-040/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aryan-040/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aryan-040/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Greedy
 |  |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Aryan-040/Leetcode/tree/master/0085-maximal-rectangle) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aryan-040/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Database
 |  |
 | ------- |
@@ -249,4 +252,16 @@ A collection of LeetCode questions to ace the coding interview!
 | [0177-nth-highest-salary](https://github.com/Aryan-040/Leetcode/tree/master/0177-nth-highest-salary) |
 | [0178-rank-scores](https://github.com/Aryan-040/Leetcode/tree/master/0178-rank-scores) |
 | [0180-consecutive-numbers](https://github.com/Aryan-040/Leetcode/tree/master/0180-consecutive-numbers) |
+## Tree
+|  |
+| ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aryan-040/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aryan-040/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aryan-040/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
