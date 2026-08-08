@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Aryan-040/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2484-count-palindromic-subsequences](https://github.com/Aryan-040/Leetcode/tree/master/2484-count-palindromic-subsequences) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aryan-040/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Aryan-040/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3320-count-the-number-of-winning-sequences](https://github.com/Aryan-040/Leetcode/tree/master/3320-count-the-number-of-winning-sequences) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Aryan-040/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Aryan-040/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aryan-040/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Aryan-040/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aryan-040/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Aryan-040/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Aryan-040/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## String Matching
 |  |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0005-longest-palindromic-substring](https://github.com/Aryan-040/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aryan-040/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/Aryan-040/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Aryan-040/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Aryan-040/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1406-stone-game-iii](https://github.com/Aryan-040/Leetcode/tree/master/1406-stone-game-iii) |
 | [2484-count-palindromic-subsequences](https://github.com/Aryan-040/Leetcode/tree/master/2484-count-palindromic-subsequences) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Aryan-040/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3320-count-the-number-of-winning-sequences](https://github.com/Aryan-040/Leetcode/tree/master/3320-count-the-number-of-winning-sequences) |
 ## Counting Sort
 |  |
