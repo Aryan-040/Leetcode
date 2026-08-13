@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aryan-040/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/Aryan-040/Leetcode/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Aryan-040/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Aryan-040/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aryan-040/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Aryan-040/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Aryan-040/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1392-longest-happy-prefix](https://github.com/Aryan-040/Leetcode/tree/master/1392-longest-happy-prefix) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aryan-040/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Aryan-040/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Aryan-040/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2484-count-palindromic-subsequences](https://github.com/Aryan-040/Leetcode/tree/master/2484-count-palindromic-subsequences) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aryan-040/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Aryan-040/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Segment Tree
 |  |
 | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Aryan-040/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Aryan-040/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Math
 |  |
@@ -319,4 +322,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Aryan-040/Leetcode/tree/master/1510-stone-game-iv) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Aryan-040/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
