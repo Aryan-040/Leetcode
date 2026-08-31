@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/Aryan-040/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Aryan-040/Leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Backtracking
 |  |
 | ------- |
