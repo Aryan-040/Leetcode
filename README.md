@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0692-top-k-frequent-words](https://github.com/Aryan-040/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0796-rotate-string](https://github.com/Aryan-040/Leetcode/tree/master/0796-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aryan-040/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0940-distinct-subsequences-ii](https://github.com/Aryan-040/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1392-longest-happy-prefix](https://github.com/Aryan-040/Leetcode/tree/master/1392-longest-happy-prefix) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aryan-040/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Aryan-040/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0115-distinct-subsequences](https://github.com/Aryan-040/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/Aryan-040/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Aryan-040/Leetcode/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/Aryan-040/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/Aryan-040/Leetcode/tree/master/1140-stone-game-ii) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Aryan-040/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1406-stone-game-iii](https://github.com/Aryan-040/Leetcode/tree/master/1406-stone-game-iii) |
