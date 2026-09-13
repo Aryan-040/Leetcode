@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0486-predict-the-winner](https://github.com/Aryan-040/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aryan-040/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/Aryan-040/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [0835-image-overlap](https://github.com/Aryan-040/Leetcode/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Aryan-040/Leetcode/tree/master/0877-stone-game) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aryan-040/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1140-stone-game-ii](https://github.com/Aryan-040/Leetcode/tree/master/1140-stone-game-ii) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0037-sudoku-solver](https://github.com/Aryan-040/Leetcode/tree/master/0037-sudoku-solver) |
 | [0085-maximal-rectangle](https://github.com/Aryan-040/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0835-image-overlap](https://github.com/Aryan-040/Leetcode/tree/master/0835-image-overlap) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Aryan-040/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Aryan-040/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Number Theory
