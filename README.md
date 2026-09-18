@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aryan-040/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/Aryan-040/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1392-longest-happy-prefix](https://github.com/Aryan-040/Leetcode/tree/master/1392-longest-happy-prefix) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aryan-040/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aryan-040/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Aryan-040/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1927-sum-game](https://github.com/Aryan-040/Leetcode/tree/master/1927-sum-game) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0692-top-k-frequent-words](https://github.com/Aryan-040/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [1386-cinema-seat-allocation](https://github.com/Aryan-040/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Aryan-040/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aryan-040/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Aryan-040/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aryan-040/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Aryan-040/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0628-maximum-product-of-three-numbers](https://github.com/Aryan-040/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/Aryan-040/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aryan-040/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aryan-040/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Aryan-040/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Aryan-040/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Aryan-040/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aryan-040/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/Aryan-040/Leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aryan-040/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Aryan-040/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1927-sum-game](https://github.com/Aryan-040/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Aryan-040/Leetcode/tree/master/2029-stone-game-ix) |
