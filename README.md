@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0208-implement-trie-prefix-tree](https://github.com/Aryan-040/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Aryan-040/Leetcode/tree/master/0242-valid-anagram) |
 | [0282-expression-add-operators](https://github.com/Aryan-040/Leetcode/tree/master/0282-expression-add-operators) |
+| [0301-remove-invalid-parentheses](https://github.com/Aryan-040/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0451-sort-characters-by-frequency](https://github.com/Aryan-040/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0686-repeated-string-match](https://github.com/Aryan-040/Leetcode/tree/master/0686-repeated-string-match) |
 | [0692-top-k-frequent-words](https://github.com/Aryan-040/Leetcode/tree/master/0692-top-k-frequent-words) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0037-sudoku-solver](https://github.com/Aryan-040/Leetcode/tree/master/0037-sudoku-solver) |
 | [0282-expression-add-operators](https://github.com/Aryan-040/Leetcode/tree/master/0282-expression-add-operators) |
+| [0301-remove-invalid-parentheses](https://github.com/Aryan-040/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Aryan-040/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Aryan-040/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Matrix
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Aryan-040/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Aryan-040/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/Aryan-040/Leetcode/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Aryan-040/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
